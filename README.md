@@ -35,7 +35,8 @@ Hi, I'm Dhiman Sutradhar, a passionate Web Developer with a deep enthusiasm for 
 [![](https://visitcount.itsvg.in/api?id=D-man-official&icon=0&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dhimans7047@gmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dman7047)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
